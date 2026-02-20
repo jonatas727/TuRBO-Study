@@ -1,0 +1,71 @@
+# =========================
+# 🐍 Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.pyd
+*.dll
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# 🧪 Ambientes Virtuais
+# =========================
+venv/
+venv37/
+.env/
+.venv/
+env/
+
+# =========================
+# 🧠 Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# 📊 Experimentos / Outputs
+# =========================
+results/
+outputs/
+logs/
+checkpoints/
+*.log
+*.csv
+*.npy
+*.npz
+*.pt
+*.pth
+
+# =========================
+# 🔬 Seeds / Debug / Dumps
+# =========================
+*.pickle
+*.pkl
+*.joblib
+
+# =========================
+# 🖥 Sistema Operacional
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🛠 IDEs
+# =========================
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# 🔐 Arquivos locais
+# =========================
+.env.local
+.env.*
