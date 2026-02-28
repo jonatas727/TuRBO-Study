@@ -17,7 +17,7 @@ dist/
 .eggs/
 
 # =========================
-# 🧪 Ambientes Virtuais
+# 🧪 Environments
 # =========================
 venv/
 venv37/
@@ -31,7 +31,7 @@ env/
 .ipynb_checkpoints/
 
 # =========================
-# 📊 Experimentos / Outputs
+# 📊 Outputs
 # =========================
 results/
 outputs/
@@ -52,7 +52,7 @@ checkpoints/
 *.joblib
 
 # =========================
-# 🖥 Sistema Operacional
+# 🖥 OS
 # =========================
 .DS_Store
 Thumbs.db
@@ -65,7 +65,7 @@ Thumbs.db
 *.swp
 
 # =========================
-# 🔐 Arquivos locais
+# 🔐 Local files
 # =========================
 .env.local
 .env.*
